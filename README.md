@@ -42,9 +42,3 @@ I bridge the gap between complex engineering, AI systems, and high-impact busine
   <img src="https://github-readme-stats.vercel.app/api?username=rexShail&show_icons=true&theme=dark" alt="rexShail's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexShail&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
 </p>
-
----
-
-### 📫 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(Update with your link)*
-* 🌐 **Portfolio/Website:** [yourwebsite.com](https://yourwebsite.com) *(Optional)*
