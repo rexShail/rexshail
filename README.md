@@ -1,44 +1,114 @@
-# Hi there, I'm Shail (RexShail)👋
-
-### 🚀 Forward Deployed Engineer | AI & Decisioning Specialist
-
-I bridge the gap between complex engineering, AI systems, and high-impact business outcomes. My core focus is building resilient decisioning platforms and fraud prevention architectures using Modern AI, Python, and TypeScript.
-
+# Hi there 👋, I'm Shailender Singh
+ 
+### Technical Architect | FinTech Specialist | AI Enthusiast | Builder
+ 
+I'm a Technology Architect with 13+ years of experience designing and delivering enterprise-scale platforms in the banking and financial services domain. I specialize in decisioning systems, microservices architecture, cloud-native solutions, and intelligent automation.
+ 
+Currently, I work with Citi, where I help architect and modernize mission-critical platforms focused on risk, fraud, and decision management.
+ 
 ---
-
-### 💡 What I Do
-* 🤖 **AI & Decision Systems:** Designing real-time evaluation engines and adaptive decision pipelines.
-* 🛡️ **Fraud Prevention:** Building predictive models and rules engines to mitigate risk at scale.
-* 🛠️ **Forward Deployment:** Partnering with key stakeholders to integrate enterprise-grade technical solutions into complex ecosystems.
-
+ 
+## 🚀 About Me
+ 
+- 🔭 Technical Architect with deep expertise in Financial Services
+- 🏦 Extensive experience in Banking, Risk, Fraud, and Decisioning Platforms
+- ☁️ Passionate about Cloud-Native Architecture and Distributed Systems
+- 🤖 Exploring AI, Machine Learning, and Intelligent Automation
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🌱 Continuously learning emerging technologies and architectural patterns
+- 💡 Strong advocate of scalable, resilient, and maintainable software design
+ 
 ---
-
-### 🛠️ Tech Stack & Expertise
-
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & Decisioning:**
-* Machine Learning & Predictive Modeling
-* Risk & Fraud Detection Architecture
-* LLM Orchestration & Agentic Systems
-
-**Tooling & Infrastructure:**
-* Docker / Kubernetes / Cloud Services (AWS/GCP)
-* REST & GraphQL APIs
-* Data Pipelines & Stream Processing
-
+ 
+## 🛠️ Tech Stack
+ 
+### Architecture & Design
+- Enterprise Architecture
+- Solution Architecture
+- Microservices
+- Event-Driven Architecture
+- Domain-Driven Design (DDD)
+- API-First Design
+- Cloud-Native Systems
+ 
+### Decisioning & Business Rules
+- FICO Blaze Advisor
+- Decision Management Systems
+- Rule Authoring & Governance
+- Fraud Detection Strategies
+- Risk Management Platforms
+ 
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+ 
+### Frontend
+- Angular
+- HTML5
+- CSS3
+- Bootstrap
+ 
+### Backend
+- Spring Boot
+- REST APIs
+- Node.js
+ 
+### Cloud & DevOps
+- Kubernetes
+- Docker
+- CI/CD Pipelines
+- GitHub Actions
+- OpenShift
+ 
+### Data & Analytics
+- Python
+- Pandas
+- Data Analytics
+- Reporting Automation
+ 
+### AI & Machine Learning
+- PyTorch
+- Generative AI
+- LLM Applications
+- AI-Assisted Development
+ 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rexShail&show_icons=true&theme=dark" alt="rexShail's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexShail&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
-</p>
+ 
+## 📈 What I'm Working On
+ 
+- Building intelligent decisioning solutions
+- Exploring Generative AI use cases in enterprise systems
+- Developing automation tools using Python
+- Enhancing cloud-native architecture practices
+- Sharing knowledge through technical content and open-source projects
+ 
+---
+ 
+## 🌐 Connect With Me
+ 
+- GitHub: https://github.com/rexShail
+- LinkedIn: www.linkedin.com/in/rexshail
+ 
+---
+ 
+## 💭 Architecture Philosophy
+ 
+> "Technology should simplify complexity, not create it.
+> Great architecture balances scalability, maintainability, resilience, and business value."
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+https://github-readme-stats.vercel.app/api?username=rexShail&show_icons=true&theme=github_dark
+ 
+https://github-readme-stats.vercel.app/api/top-langs/?username=rexShail&layout=compact&theme=github_dark
+ 
+---
+ 
+### Thanks for visiting my profile!
+ 
+If you're interested in enterprise architecture, fintech innovation, AI, or scalable software systems, feel free to connect and collaborate.
